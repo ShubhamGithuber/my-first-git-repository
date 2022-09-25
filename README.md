@@ -1,4 +1,4 @@
 # my-first-git-repository
 this is my first repository 
 seconds commit 
-I have modifie this file in local repository
+I have modified this file in remote repository
